@@ -1,0 +1,34 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+.sec-display {
+  display: flex;
+}
+.div-width {
+  width: 50%;
+}
+.div-width img {
+  width: 140%;
+}
+.word-color {
+  color: crimson;
+}
+.padd {
+  padding-left: 60px;
+}
+.button {
+  text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+  color: white;
+  border: 3px solid skyblue;
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.padd1 {
+  padding-left: 100px;
+}
+#padd2 {
+  padding-left: 500px;
+  padding-right: 160px;
+}
