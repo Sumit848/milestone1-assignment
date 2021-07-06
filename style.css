@@ -1,5 +1,6 @@
 body {
   font-family: "Poppins", sans-serif;
+  margin: 0 px;
 }
 .sec-display {
   display: flex;
@@ -10,6 +11,14 @@ body {
 .div-width img {
   width: 140%;
   height: 130%;
+}
+.sai {
+  width: 50%;
+}
+.sai img {
+  width: 300px;
+  height: 380px;
+  border-radius: 20px;
 }
 .word-color {
   color: crimson;
@@ -32,7 +41,14 @@ body {
 .padd1 {
   padding-left: 100px;
 }
-#padd2 {
+.padd2 {
   padding-left: 500px;
   padding-right: 160px;
+}
+.sec-pad {
+  padding-bottom: 170px;
+}
+.mid-banner {
+  background-image: url(mid-banner1.png);
+  background-repeat: no-repeat;
 }
