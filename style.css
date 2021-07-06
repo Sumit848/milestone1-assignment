@@ -9,12 +9,16 @@ body {
 }
 .div-width img {
   width: 140%;
+  height: 130%;
 }
 .word-color {
   color: crimson;
 }
+#name {
+  color: darkgreen;
+}
 .padd {
-  padding-left: 60px;
+  padding-left: 45px;
 }
 .button {
   text-decoration: none;
