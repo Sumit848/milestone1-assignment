@@ -77,6 +77,8 @@ body {
 .fourth-div-padd {
   padding-right: 150px;
   border-radius: 40px;
+  text-align: centre;
+  margin-bottom: 0px;
 }
 .box-shadow {
   box-shadow: 10px 10px 40px rgb(238, 184, 184);
@@ -89,7 +91,7 @@ body {
   margin-left: 100px;
   margin-right: 100px;
   border-radius: 10px;
-  margin-bottom: 70px;
+  margin-bottom: 45px;
 }
 .new-margin1 {
   margin-left: 100px;
