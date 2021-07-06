@@ -4,6 +4,10 @@ body {
   margin-bottom: 0;
   background-image: rgb(20, 109, 145), rgb(175, 35, 35);
 }
+h1 {
+  margin: 0;
+  padding: 0;
+}
 .sec-display {
   display: flex;
 }
