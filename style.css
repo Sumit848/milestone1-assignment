@@ -12,7 +12,7 @@ body {
 }
 .div-width img {
   width: 140%;
-  height: 130%;
+  height: 100%;
 }
 .sai {
   width: 50%;
@@ -105,4 +105,7 @@ body {
 }
 .color {
   color: white;
+}
+.login {
+  margin-left: 50px;
 }
